@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I'm ye！ 👋
+
+
+
+### Here is my blog: https://bayeeaa.github.io/   😄
+
+
+
+### Contact me: yyn1950@outlook.com
+
+
+
+[![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Bayeeaa&show_icons=true&theme=radical)](https://github.com/Bayeeaa)
 
 <!--
 **Bayeeaa/Bayeeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
