@@ -2,7 +2,7 @@
 
 
 
-### Here is my blog: https://bayeeaa.github.io/   😄
+### Here is my blog: https://www.bayeeaa.top/   😄
 
 
 
